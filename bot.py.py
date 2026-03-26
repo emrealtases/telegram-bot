@@ -5,7 +5,7 @@ import asyncio
 
 API_ID = 36223586
 API_HASH = "5bea113a019bb397eca36fad2c1f753d"
-SOURCE_CHANNEL = "@www3media"
+SOURCE_CHANNEL = "@haberzade"
 TARGET_CHANNELS = ["@haberdksondk", "@haberinzirvesi", "@haberlersemedya"]  # İstediğiniz kadar ekleyebilirsiniz
 
 SESSION_NAME = "forwarder_session"
