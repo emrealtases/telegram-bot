@@ -28,7 +28,7 @@ API_HASH = "1d1063236292e8b67d009da190b531dc"  # my.telegram.org'dan alınan API
 
 # Yorum yapılacak kanallar (username veya sayısal ID)
 # Örnek: ["@kanal1", "@kanal2", -1001234567890]
-HEDEF_KANALLAR = ['@bpthaber' , '@baku_es' , '@sondakikahaberlere' , '@depremturkk' ]
+HEDEF_KANALLAR = ['@bpthaber' , '@baku_es' , '@sondakikahaberlere' , '@depremturkk' '@tcdefense' , '@ifsa_turk69' , '@mhahabertg' , '@savasinmeskeni' , '@gazzeisrailsondakika' , '@haberler' , '@sozcucom' , '@solcugazete' , '@haberlerw' , '@enformasyonmerkezi' , '@sondakikaw' , '@irann_israil' , '@sondakikak' , '@savass_haberleri']
 
 
 # Bırakılacak sabit yorum
